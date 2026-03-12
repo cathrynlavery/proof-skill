@@ -9,13 +9,13 @@ Copy the skill file into your project's Claude Code skills directory:
 ```bash
 mkdir -p .claude/skills
 curl -sS -o .claude/skills/proof.SKILL.md \
-  https://raw.githubusercontent.com/EveryInc/proof-skill/main/proof.SKILL.md
+  https://raw.githubusercontent.com/cathrynlavery/proof-skill/main/proof.SKILL.md
 ```
 
 Or clone and copy manually:
 
 ```bash
-git clone https://github.com/EveryInc/proof-skill.git
+git clone https://github.com/cathrynlavery/proof-skill.git
 cp proof-skill/proof.SKILL.md your-project/.claude/skills/
 ```
 
@@ -46,5 +46,5 @@ export BASE_URL="https://your-proof-instance.example"
 ## Links
 
 - [proofeditor.ai](https://proofeditor.ai) — hosted product
-- [proof-sdk](https://github.com/EveryInc/proof-sdk) — open-source SDK
+- [proof-sdk](https://github.com/cathrynlavery/proof-sdk) — open-source SDK
 - [REFERENCE.md](./REFERENCE.md) — advanced API reference
