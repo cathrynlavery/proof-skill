@@ -48,3 +48,7 @@ export BASE_URL="https://your-proof-instance.example"
 - [proofeditor.ai](https://proofeditor.ai) — hosted product
 - [proof-sdk](https://github.com/cathrynlavery/proof-sdk) — open-source SDK
 - [REFERENCE.md](./REFERENCE.md) — advanced API reference
+
+---
+
+From [founder.codes](https://founder.codes) — practical systems and tools for founders building with AI. Follow [@cathrynlavery](https://x.com/cathrynlavery) on X.
